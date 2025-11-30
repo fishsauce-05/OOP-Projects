@@ -1,0 +1,12 @@
+
+============= BURGER STORE RECEIPT =============
+BURGER: Spicy Chicken                  $5.50
+ + Extra: Cheese                        $1.00
+ + Extra: Bacon                         $1.50
+ + Extra: Lettuce                       $0.50
+DRINK:  Coke (SMALL)                   $1.00
+SIDE:   French Fries                   $2.50
+------------------------------------------------
+TOTAL DUE:                               $12.00
+================================================
+       Thank you for choosing Burger Store!     
